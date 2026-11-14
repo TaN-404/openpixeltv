@@ -1,4 +1,4 @@
-('D:\\Windows-Python\\openpixeltv\\build\\openpixeltv\\PYZ-00.pyz',
+('D:\\Windows-Python\\openpixeltv\\build\\OpenPixelTV\\PYZ-00.pyz',
  [('PyQt6',
    'D:\\Windows-Python\\openpixeltv\\env\\Lib\\site-packages\\PyQt6\\__init__.py',
    'PYMODULE'),
